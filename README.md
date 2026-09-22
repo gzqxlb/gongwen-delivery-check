@@ -15,8 +15,7 @@ chinese-official-writing 技能的 host-capabilities.json 里，9 个宿主有 6
 
 ## 提示：
 **gongwenformat-pro	目前为按需触发** （只有你要 Word / docx / GB-T 9704 正式文件时才排版）
-### 理由：
-起草一份纯文本交办的短材料时强行排版会多出无用的 Word 文件。
+- 理由：起草一份纯文本交办的短材料时强行排版会多出无用的 Word 文件。
 
 ## 详见：
 1.任务：“模型 与 SKILL 的区别”</br>
