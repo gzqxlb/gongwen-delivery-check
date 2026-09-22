@@ -19,6 +19,6 @@ chinese-official-writing 技能的 host-capabilities.json 里，9 个宿主有 6
 起草一份纯文本交办的短材料时强行排版会多出无用的 Word 文件。
 
 ## 详见：
-1.任务：“模型 与 SKILL 的区别”
-2.关联：“中文公文写作 Skill”，https://github.com/gongyu0918-debug/chinese-official-writing-skill
+1.任务：“模型 与 SKILL 的区别”</br>
+2.关联：“中文公文写作 Skill”，https://github.com/gongyu0918-debug/chinese-official-writing-skill</br>
 3.关联：“公文排版 Skill ”，https://github.com/mizzlelover/gongwen-gbt9704-skill
